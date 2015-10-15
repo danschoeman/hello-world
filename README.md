@@ -1,2 +1,2 @@
 # hello-world
-New repository
+Short explanation for this hello world repository
